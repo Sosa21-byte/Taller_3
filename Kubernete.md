@@ -247,6 +247,7 @@ kubectl exec -it <pod> -- sh
 ---
 
 ## 📷 **Captura del juego (opcional)**
+<img width="939" height="857" alt="image" src="https://github.com/user-attachments/assets/db1d5ae2-6997-4e3a-8906-58a543f597a2" />
 ![Imagen de WhatsApp 2025-11-17 a las 15 58 59_f7360b91](https://github.com/user-attachments/assets/31a8c3a8-72cf-4c30-a6c1-2cb242eede5f)
 ![Imagen de WhatsApp 2025-11-17 a las 16 00 37_377f51ed](https://github.com/user-attachments/assets/ca6ecb53-17a9-4d45-aa55-c1ebe81500d0)
 ![Imagen de WhatsApp 2025-11-17 a las 16 02 25_19b08079](https://github.com/user-attachments/assets/6ecf9387-c744-4eb5-b542-010b22da2307)
