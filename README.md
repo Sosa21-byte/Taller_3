@@ -172,8 +172,7 @@ Permitir acceso a la cámara del navegador cuando Streamlit lo solicite.
 
 # 🎉 Resultados
 
-<img width="1917" height="987" alt="image" src="https://github.com/user-attachments/assets/0ef08237-3b9f-4922-aaea-ae183fba26db" />
 ![Imagen de WhatsApp 2025-11-16 a las 23 14 53_7906c83d](https://github.com/user-attachments/assets/4bd3f743-0d8b-4a33-b509-76ddf4cf75f5)
 ![Imagen de WhatsApp 2025-11-16 a las 23 15 54_2e743dfe](https://github.com/user-attachments/assets/40feefc4-4146-43be-9ab8-9fe82a489d1d)
 ![Imagen de WhatsApp 2025-11-16 a las 23 17 14_e6aec084](https://github.com/user-attachments/assets/77a9c15c-9d0a-4a50-9cc1-32fd00911232)
-<img width="913" height="616" alt="image" src="https://github.com/user-attachments/assets/1deb3d12-0698-4ed5-b73f-96a5d0ca0747" />
+
